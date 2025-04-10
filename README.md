@@ -20,3 +20,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=segacha&layout=compact&theme=dark" alt="Top Languages Card"></div>
 <h2 align="center">📫 Connect with me</h2>
 <p align="center">🔗 Stepstone: <a href="https://www.stepstone.de/profile" target="_blank">Emilio Segale</a></p>
+<p align="center">🔗 E-mail: <a href="emiliosegale@outlook.com" target="_blank">Emilio Segale</a></p>
