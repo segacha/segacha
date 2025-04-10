@@ -1,4 +1,4 @@
-<h1 align="center">Emilio Segale</h1>
+<h1 align="center">👋 Hey there, I'm Emilio!</h1>
 <div align="center">
 <p>Hi, I'm Emilio Segale, and I am currently studying Computer Science at Hochschule Bochum. I'm exploring a variety of new technologies to discover what I enjoy the most. So far, I’ve found web development to be one of the most rewarding areas, thanks to its great work-reward balance. I enjoy writing code and seeing the results in real-time.</p>
 </div>
@@ -19,4 +19,4 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=segacha&layout=compact&theme=dark" alt="Top Languages Card"></div>
 <h2 align="center">📫 Connect with me</h2>
-<p align="center">🔗 LinkedIn: <a href="https://www.stepstone.de/profile" target="_blank">Emilio Segale</a></p>
+<p align="center">🔗 Stepstone: <a href="https://www.stepstone.de/profile" target="_blank">Emilio Segale</a></p>
